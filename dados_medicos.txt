@@ -1,0 +1,349 @@
+Dados da página 1:
+
+--- Nomes ---
+AARAO GONCALVES DE OLIVEIRA BARRETO
+ABDIAS PEREIRA DINIZ NETO
+ABDISIO DE ARAUJO LEMOS
+ABEL DE OLIVEIRA SANTOS NETO
+ABEL MENEZES FILHO
+ABEL TENORIO CAVALCANTE FILHO
+ABEL TENORIO DE MACEDO FILHO
+ABELARDO ALVES DE ARAUJO JUNIOR
+ABELARDO ALVES MACIEL
+ABELARDO ALVES MACIEL JUNIOR
+
+--- CRMs ---
+CRM: 18420-PE
+CRM: 29106-PE
+CRM: 7188-PE
+CRM: 27278-PE
+CRM: 3480-PE
+CRM: 10855-PE
+CRM: 21548-PE
+CRM: 12142-PE
+CRM: 2192-PE
+CRM: 9882-PE
+
+--- Especialidades ---
+Especialidades/Áreas de Atuação:
+MEDICINA INTENSIVA - RQE Nº: 8097
+
+Especialidades/Áreas de Atuação:
+ Médico sem especialidade registrada.
+
+Especialidades/Áreas de Atuação:
+CIRURGIA PLÁSTICA - RQE Nº: 7096
+
+Especialidades/Áreas de Atuação:
+ Médico sem especialidade registrada.
+
+Especialidades/Áreas de Atuação:
+ Médico sem especialidade registrada.
+
+Especialidades/Áreas de Atuação:
+OFTALMOLOGIA - RQE Nº: 1147
+
+Especialidades/Áreas de Atuação:
+ Médico sem especialidade registrada.
+
+Especialidades/Áreas de Atuação:
+UROLOGIA - RQE Nº: 4926
+
+Especialidades/Áreas de Atuação:
+ Médico sem especialidade registrada.
+
+Especialidades/Áreas de Atuação:
+ Médico sem especialidade registrada.
+
+
+Dados da página 2:
+
+--- Nomes ---
+ABELARDO DA SILVA MELO JUNIOR
+ABELARDO DIOGENES LOURENCO
+ABELARDO GONCALVES ESCARIAO
+ABELARDO ULISSES MAIA DE FARIAS
+ABENILDO JOSE BEZERRA DA SILVA
+ABÍLIO AUGUSTO PIMENTEL CRUZ
+ABILIO COSTA E SILVA
+ABILIO JORGE OLIVEIRA DA COSTA
+ABÍLIO VALENÇA DE BARROS
+ABIMAEL ARNAUD FILHO
+
+--- CRMs ---
+CRM: 35190-PE
+CRM: 2619-PE
+CRM: 11849-PE
+CRM: 3787-PE
+CRM: 2653-PE
+CRM: 27950-PE
+CRM: 33508-PE
+CRM: 7759-PE
+CRM: 10620-PE
+CRM: 4221-PE
+
+--- Especialidades ---
+Especialidades/Áreas de Atuação:
+MEDICINA DO TRABALHO - RQE Nº: 14574
+
+Especialidades/Áreas de Atuação:
+ Médico sem especialidade registrada.
+
+Especialidades/Áreas de Atuação:
+CARDIOLOGIA - RQE Nº: 5037 (Áreas de atuação: Estimulação Cardíaca Eletrônica Implantável - RQE Nº: 12868)
+
+Especialidades/Áreas de Atuação:
+MEDICINA FÍSICA E REABILITAÇÃO - RQE Nº: 6609
+MEDICINA DO TRABALHO - RQE Nº: 5416
+NEUROLOGIA - RQE Nº: 5400
+
+Especialidades/Áreas de Atuação:
+ANESTESIOLOGIA - RQE Nº: 7194
+
+Especialidades/Áreas de Atuação:
+ORTOPEDIA E TRAUMATOLOGIA - RQE Nº: 12698
+
+Especialidades/Áreas de Atuação:
+ Médico sem especialidade registrada.
+
+Especialidades/Áreas de Atuação:
+GINECOLOGIA E OBSTETRÍCIA - RQE Nº: 3676
+
+Especialidades/Áreas de Atuação:
+GINECOLOGIA E OBSTETRÍCIA - RQE Nº: 10061
+
+Especialidades/Áreas de Atuação:
+ Médico sem especialidade registrada.
+
+
+Dados da página 3:
+
+--- Nomes ---
+ABINADABE DOS SANTOS PIRES SOARES
+ABNER PORTO DE FARIAS MACÊDO
+ABRAÃO SAMPAIO DE LACERDA
+ABRAÃO SOUSA BRITO
+ABRAÃO WAGNER PESSOA XIMENES
+ABRAHAO AMORIM DE OLIVEIRA E SILVA
+ABRAHAO CHERPAK
+ABRAHAO GRINFELD
+ACRISIO JOAO DA LUZ FILHO
+AÇUCENA LIRA LINS
+
+--- CRMs ---
+CRM: 14788-PE
+CRM: 25184-PE
+CRM: 24889-PE
+CRM: 32802-PE
+CRM: 21845-PE
+CRM: 33536-PE
+CRM: 1213-PE
+CRM: 4148-PE
+CRM: 13386-PE
+CRM: 37251-PE
+
+--- Especialidades ---
+Especialidades/Áreas de Atuação:
+CIRURGIA GERAL - RQE Nº: 8392
+
+Especialidades/Áreas de Atuação:
+PSIQUIATRIA - RQE Nº: 13645
+
+Especialidades/Áreas de Atuação:
+ Médico sem especialidade registrada.
+
+Especialidades/Áreas de Atuação:
+OFTALMOLOGIA - RQE Nº: 13689
+
+Especialidades/Áreas de Atuação:
+NEUROCIRURGIA - RQE Nº: 12675
+
+Especialidades/Áreas de Atuação:
+DIAGNÓSTICO POR IMAGEM - RQE Nº: 15007 (Áreas de atuação: Ultrassonografia Geral - RQE Nº: 15007 (atuação exclusiva))
+
+Especialidades/Áreas de Atuação:
+ Médico sem especialidade registrada.
+
+Especialidades/Áreas de Atuação:
+OTORRINOLARINGOLOGIA - RQE Nº: 577
+
+Especialidades/Áreas de Atuação:
+ Médico sem especialidade registrada.
+
+Especialidades/Áreas de Atuação:
+ Médico sem especialidade registrada.
+
+
+Dados da página 4:
+
+--- Nomes ---
+ADA MARIA TAVARES ALVES
+ADA OLIVEIRA ALMEIDA
+ADAHIR FERRERA
+ADAILTON ABREU DA SILVA
+ADAILTON ALVES DE MEDEIROS
+ADAILTON DE ALENCAR VIDAL
+ADALBERTO AGUIAR INTERAMINENSE JÚNIOR
+ADALBERTO CAMPINHO CLEMENTINO FILHO
+ADALBERTO CAVALCANTI RODRIGUES FILHO
+ADALBERTO COELHO FERREIRA
+
+--- CRMs ---
+CRM: 35476-PE
+CRM: 10363-PE
+CRM: 4432-PE
+CRM: 11370-PE
+CRM: 14661-PE
+CRM: 4336-PE
+CRM: 13454-PE
+CRM: 19886-PE
+CRM: 29469-PE
+CRM: 17789-PE
+
+--- Especialidades ---
+Especialidades/Áreas de Atuação:
+ Médico sem especialidade registrada.
+
+Especialidades/Áreas de Atuação:
+RADIOLOGIA E DIAGNÓSTICO POR IMAGEM - RQE Nº: 10537
+
+Especialidades/Áreas de Atuação:
+ Médico sem especialidade registrada.
+
+Especialidades/Áreas de Atuação:
+MEDICINA DE FAMÍLIA E COMUNIDADE - RQE Nº: 617
+
+Especialidades/Áreas de Atuação:
+ Médico sem especialidade registrada.
+
+Especialidades/Áreas de Atuação:
+CIRURGIA GERAL - RQE Nº: 6622
+
+Especialidades/Áreas de Atuação:
+UROLOGIA - RQE Nº: 4981
+CIRURGIA GERAL - RQE Nº: 4982
+
+Especialidades/Áreas de Atuação:
+CIRURGIA GERAL - RQE Nº: 5649
+COLOPROCTOLOGIA - RQE Nº: 5650
+
+Especialidades/Áreas de Atuação:
+ Médico sem especialidade registrada.
+
+Especialidades/Áreas de Atuação:
+ORTOPEDIA E TRAUMATOLOGIA - RQE Nº: 10609
+
+
+Dados da página 5:
+
+--- Nomes ---
+ADALBERTO DA SILVA FERNANDES
+ADALBERTO DE LIMA
+ADALBERTO GUIDO DE ARAÚJO
+ADALBERTO RODRIGUES DA SILVA
+ADALGISA MARIA OLIVEIRA CAVALCANTI
+ADALMYR DE SOUZA HOLANDA
+ADALTO CABRAL DE SENA
+ADALVA CARNEIRO DE MIRANDA
+ADAM DAS ALMAS TRANCOSO
+ADAM LEONEL RODRIGUES VENTURA
+
+--- CRMs ---
+CRM: 3051-PE
+CRM: 13236-PE
+CRM: 3879-PE
+CRM: 3647-PE
+CRM: 18827-PE
+CRM: 35348-PE
+CRM: 21547-PE
+CRM: 24483-PE
+CRM: 27121-PE
+CRM: 33755-PE
+
+--- Especialidades ---
+Especialidades/Áreas de Atuação:
+ Médico sem especialidade registrada.
+
+Especialidades/Áreas de Atuação:
+ Médico sem especialidade registrada.
+
+Especialidades/Áreas de Atuação:
+CIRURGIA GERAL - RQE Nº: 2419
+
+Especialidades/Áreas de Atuação:
+ Médico sem especialidade registrada.
+
+Especialidades/Áreas de Atuação:
+NEUROLOGIA - RQE Nº: 4751 (Áreas de atuação: Neurofisiologia Clínica - RQE Nº: 9571)
+
+Especialidades/Áreas de Atuação:
+ Médico sem especialidade registrada.
+
+Especialidades/Áreas de Atuação:
+MEDICINA DO TRÁFEGO - RQE Nº: 3778
+MEDICINA DO TRABALHO - RQE Nº: 9790
+MEDICINA DE FAMÍLIA E COMUNIDADE - RQE Nº: 11769
+
+Especialidades/Áreas de Atuação:
+GINECOLOGIA E OBSTETRÍCIA - RQE Nº: 15121
+
+Especialidades/Áreas de Atuação:
+MEDICINA DE FAMÍLIA E COMUNIDADE - RQE Nº: 13752
+
+Especialidades/Áreas de Atuação:
+ Médico sem especialidade registrada.
+
+
+Dados da página 6:
+
+--- Nomes ---
+
+
+
+
+
+
+
+
+
+
+
+--- CRMs ---
+
+
+
+
+
+
+
+
+
+
+
+--- Especialidades ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
